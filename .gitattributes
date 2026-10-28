@@ -1,0 +1,7 @@
+* text=auto
+*.md text eol=lf
+LICENSE text eol=lf
+*.txt text eol=lf
+*.unitypackage binary
+*.png binary
+*.mp4 binary

@@ -1,0 +1,69 @@
+Caustica Personal Project License
+Version 1.0 — 28 October 2026
+
+Copyright (c) 2026 samxwayout.
+All rights reserved except as expressly granted below.
+
+1. Scope
+
+"Caustica" means the code, shaders, project-specific assets, examples, and
+documentation distributed by the licensor under this license. This license
+grants rights only to material the licensor owns or is authorized to license.
+Third-party material, Unity components, and separately identified dependencies
+remain subject to their own licenses; this license does not replace them.
+
+2. Permitted personal use
+
+You may download, make private copies of, study, and modify Caustica for your
+own personal, educational, or hobby projects that are noncommercial.
+
+You may publish screenshots, videos, and noncommercial end-user builds of
+those projects. In an end-user build, Caustica must be incorporated as part
+of your project rather than supplied as a reusable asset, source bundle,
+template, editor tool, or package for others to extract and reuse.
+
+For this license, noncommercial means the project is not sold, provided as a
+paid service, made for a paying client, used in business operations, or used
+to earn subscription, advertising, in-app purchase, or crowdfunding revenue.
+A free personal portfolio demonstration is permitted.
+
+3. Attribution and notices
+
+Keep the "Made by samxwayout" credit and existing copyright, license, and
+third-party notices in copies of the relevant source and documentation.
+Include this license with any permitted distribution that contains Caustica
+code or assets. You do not need to add a visible in-game watermark.
+
+Do not claim authorship of Caustica itself, and do not imply that the licensor
+endorses your project. You retain rights to your own original contributions.
+
+4. Uses requiring written permission
+
+No permission is granted for commercial use, sublicensing, resale, paid client
+work, or standalone redistribution of Caustica, its source, its Unity package,
+its reusable assets, or modified versions of those materials.
+
+Ask the licensor for written permission before any such use. Public viewing
+of this repository does not grant those additional rights. GitHub platform
+rights to view and fork a public repository remain unaffected; this does not
+grant a broader right to redistribute the asset or use it commercially.
+
+5. Ownership and termination
+
+No ownership of Caustica or rights to the licensor's names and branding are
+transferred. Rights not expressly granted are reserved. The permissions in
+this license terminate if you fail to comply with its terms. On termination,
+stop using and distributing Caustica unless the licensor gives written
+permission to continue.
+
+6. No warranty
+
+CAUSTICA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW,
+THE LICENSOR IS NOT LIABLE FOR CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING
+FROM CAUSTICA OR ITS USE. NOTHING IN THIS LICENSE LIMITS RIGHTS OR LIABILITY
+THAT CANNOT LAWFULLY BE EXCLUDED.
+
+For additional permissions, contact the maintainer through the profile at:
+https://github.com/samsharmabisht
